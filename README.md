@@ -5,7 +5,7 @@
 
 <!-- Animated typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=620&lines=%3E+Hey%2C+I'm+om+choudhari011+%F0%9F%98%8A;%3E+Building+with+TypeScript+%26+Python;%3E+Currently+building+an+AI+assistant+%F0%9F%9A%80" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=620&lines=%3E+Hey%2C+I'm+om+choudhari011+%F0%9F%98%8A;%3E+Building+with+TypeScript+%26+Python" alt="typing intro" />
 </p>
 
 <!-- Profile badges -->
@@ -25,7 +25,6 @@ class Developer:
     def __init__(self):
         self.username = "omchoudhari011"
         self.code = ["TypeScript", "JavaScript", "Python"]
-        self.stack = ["React", "FastAPI", "React Native", "SQLite"]
 
     def motto(self):
         return "Ship quality, not shortcuts."
@@ -41,11 +40,6 @@ class Developer:
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" alt="languages" />
-</p>
-
-<p align="center"><b>Frameworks · Data</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,sqlite&theme=dark" alt="frameworks" />
 </p>
 
 <p align="center"><b>Tools</b></p>
@@ -94,6 +88,19 @@ class Developer:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" alt="Dev quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
+
+## 🔗 Find Me
+
+<p align="center">
+  <a href="https://github.com/omchoudhari011">
+    <img src="https://img.shields.io/badge/PROFILE-omchoudhari011-00d9ff?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0d1117" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/omchoudhari011?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-browse-00d9ff?style=for-the-badge&logo=git&logoColor=00d9ff&labelColor=0d1117" alt="repositories" />
+  </a>
 </p>
 
 <!-- Footer wave -->
