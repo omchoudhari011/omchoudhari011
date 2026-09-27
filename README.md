@@ -48,20 +48,6 @@ class Developer:
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Generated daily by .github/workflows/stats.yml -->
-  <img height="175" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="175" src="./profile/top-langs.svg" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omchoudhari011&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF&dates=8B949E" alt="GitHub streak" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
-
 ## 🔗 Find Me
 
 <p align="center">
