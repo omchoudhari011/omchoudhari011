@@ -58,6 +58,3 @@ class Developer:
     <img src="https://img.shields.io/badge/REPOSITORIES-browse-00d9ff?style=for-the-badge&logo=git&logoColor=00d9ff&labelColor=0d1117" alt="repositories" />
   </a>
 </p>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:020024&height=130&section=footer" alt="footer" />
