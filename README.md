@@ -70,20 +70,6 @@ class Developer:
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
-
-## 🐍 Contribution Snake
-
-<!-- Generated daily by .github/workflows/snake.yml into the "output" branch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omchoudhari011/omchoudhari011/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omchoudhari011/omchoudhari011/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/omchoudhari011/omchoudhari011/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
-
 ## 💬 Dev Quote
 
 <p align="center">
