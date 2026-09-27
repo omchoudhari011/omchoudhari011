@@ -62,22 +62,6 @@ class Developer:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <!-- Generated daily by .github/workflows/stats.yml (scripts/activity_graph.py) -->
-  <img width="100%" src="./profile/activity.svg" alt="Contribution graph" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" alt="Dev quote" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=2" alt="" />
-
 ## 🔗 Find Me
 
 <p align="center">
